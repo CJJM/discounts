@@ -1,0 +1,22 @@
+{
+  "name": "discounts",
+  "version": "1.0.0",
+  "description": "Cart object methods with Jest testing framework",
+  "main": "discounts.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJJM/discounts.git"
+  },
+  "author": "Connor Maloney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CJJM/discounts/issues"
+  },
+  "homepage": "https://github.com/CJJM/discounts#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
